@@ -1601,7 +1601,12 @@
         "warning": "#fc9867",
         "warning.background": "#00000000",
         "warning.border": "#00000000",
-        "players": [],
+        "players": [
+          {
+            "cursor": "#fcfcfa",
+            "selection": "#373539"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#78dce8",
