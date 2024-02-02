@@ -1,4 +1,4 @@
-This repository contains a port of the **Monokai Pro** theme for [Zed](https://zed.dev).
+This repository contains an unofficial port of the **Monokai Pro** theme for [Zed](https://zed.dev).
 
 ![](https://github.com/slymax/zed-themes/blob/main/screenshot.png?raw=true)
 
