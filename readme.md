@@ -1,9 +1,23 @@
-This repository contains an unofficial port of the **Monokai Pro** theme for [Zed](https://zed.dev).
+**Zedokai** is a minimalist theme for [Zed](https://zed.dev) based on the **Monokai Pro** color scheme
 
-![](https://github.com/slymax/zed-themes/blob/main/screenshot.png?raw=true)
+![Zedokai](https://github.com/slymax/zed-themes/blob/main/screenshots/zedokai.png?raw=true)
 
-To install or update the theme, run the following command:
+**Filter Octagon**
 
-```sh
-curl --create-dirs -so ~/.config/zed/themes/monokai-pro.json https://slymax.com/zed-themes/monokai-pro.json
-```
+![Filter Octagon](https://github.com/slymax/zed-themes/blob/main/screenshots/octagon.png?raw=true)
+
+**Filter Spectrum**
+
+![Filter Spectrum](https://github.com/slymax/zed-themes/blob/main/screenshots/spectrum.png?raw=true)
+
+**Filter Ristretto**
+
+![Filter Ristretto](https://github.com/slymax/zed-themes/blob/main/screenshots/ristretto.png?raw=true)
+
+**Filter Machine**
+
+![Filter Machine](https://github.com/slymax/zed-themes/blob/main/screenshots/machine.png?raw=true)
+
+**Zedokai Classic**
+
+![Zedokai Classic](https://github.com/slymax/zed-themes/blob/main/screenshots/classic.png?raw=true)
