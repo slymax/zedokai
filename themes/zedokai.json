@@ -7,8 +7,8 @@
       "name": "Zedokai Classic",
       "appearance": "dark",
       "style": {
-        "border": "#40413b",
-        "border.variant": "#40413b",
+        "border": "#464741",
+        "border.variant": "#464741",
         "border.focused": "#6e7066",
         "border.selected": "#272822",
         "border.transparent": "#272822",
@@ -37,11 +37,11 @@
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": "#34352f",
-        "title_bar.background": "#34352f",
+        "status_bar.background": "#363731",
+        "title_bar.background": "#363731",
         "toolbar.background": "#272822",
         "tab_bar.background": "#2d2e28",
-        "tab.inactive_background": "#272822",
+        "tab.inactive_background": "#2d2e28",
         "tab.active_background": "#272822",
         "search.match_background": null,
         "panel.background": "#2d2e28",
@@ -140,37 +140,37 @@
           {
             "cursor": "#fdfff1",
             "background": "#fdfff1",
-            "selection": "#fdfff13d"
+            "selection": "#fdfff11a"
           },
           {
             "cursor": "#f92672",
             "background": "#f92672",
-            "selection": "#f926723d"
+            "selection": "#f926721a"
           },
           {
             "cursor": "#a6e22e",
             "background": "#a6e22e",
-            "selection": "#a6e22e3d"
+            "selection": "#a6e22e1a"
           },
           {
             "cursor": "#fd971f",
             "background": "#fd971f",
-            "selection": "#fd971f3d"
+            "selection": "#fd971f1a"
           },
           {
             "cursor": "#e6db74",
             "background": "#e6db74",
-            "selection": "#e6db743d"
+            "selection": "#e6db741a"
           },
           {
             "cursor": "#ae81ff",
             "background": "#ae81ff",
-            "selection": "#ae81ff3d"
+            "selection": "#ae81ff1a"
           },
           {
             "cursor": "#66d9ef",
             "background": "#66d9ef",
-            "selection": "#66d9ef3d"
+            "selection": "#66d9ef1a"
           }
         ],
         "syntax": {
@@ -336,8 +336,8 @@
       "name": "Zedokai (Filter Ristretto)",
       "appearance": "dark",
       "style": {
-        "border": "#453e3e",
-        "border.variant": "#453e3e",
+        "border": "#4b4444",
+        "border.variant": "#4b4444",
         "border.focused": "#72696a",
         "border.selected": "#2c2525",
         "border.transparent": "#2c2525",
@@ -366,11 +366,11 @@
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": "#393232",
-        "title_bar.background": "#393232",
+        "status_bar.background": "#3b3434",
+        "title_bar.background": "#3b3434",
         "toolbar.background": "#2c2525",
         "tab_bar.background": "#322b2b",
-        "tab.inactive_background": "#2c2525",
+        "tab.inactive_background": "#322b2b",
         "tab.active_background": "#2c2525",
         "search.match_background": null,
         "panel.background": "#322b2b",
@@ -469,37 +469,37 @@
           {
             "cursor": "#fff1f3",
             "background": "#fff1f3",
-            "selection": "#fff1f33d"
+            "selection": "#fff1f31a"
           },
           {
             "cursor": "#fd6883",
             "background": "#fd6883",
-            "selection": "#fd68833d"
+            "selection": "#fd68831a"
           },
           {
             "cursor": "#adda78",
             "background": "#adda78",
-            "selection": "#adda783d"
+            "selection": "#adda781a"
           },
           {
             "cursor": "#f38d70",
             "background": "#f38d70",
-            "selection": "#f38d703d"
+            "selection": "#f38d701a"
           },
           {
             "cursor": "#f9cc6c",
             "background": "#f9cc6c",
-            "selection": "#f9cc6c3d"
+            "selection": "#f9cc6c1a"
           },
           {
             "cursor": "#a8a9eb",
             "background": "#a8a9eb",
-            "selection": "#a8a9eb3d"
+            "selection": "#a8a9eb1a"
           },
           {
             "cursor": "#85dacc",
             "background": "#85dacc",
-            "selection": "#85dacc3d"
+            "selection": "#85dacc1a"
           }
         ],
         "syntax": {
@@ -665,8 +665,8 @@
       "name": "Zedokai",
       "appearance": "dark",
       "style": {
-        "border": "#464347",
-        "border.variant": "#464347",
+        "border": "#4c494d",
+        "border.variant": "#4c494d",
         "border.focused": "#727072",
         "border.selected": "#2d2a2e",
         "border.transparent": "#2d2a2e",
@@ -695,11 +695,11 @@
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": "#3a373b",
-        "title_bar.background": "#3a373b",
+        "status_bar.background": "#3c393d",
+        "title_bar.background": "#3c393d",
         "toolbar.background": "#2d2a2e",
         "tab_bar.background": "#333034",
-        "tab.inactive_background": "#2d2a2e",
+        "tab.inactive_background": "#333034",
         "tab.active_background": "#2d2a2e",
         "search.match_background": null,
         "panel.background": "#333034",
@@ -798,37 +798,37 @@
           {
             "cursor": "#fcfcfa",
             "background": "#fcfcfa",
-            "selection": "#fcfcfa3d"
+            "selection": "#fcfcfa1a"
           },
           {
             "cursor": "#ff6188",
             "background": "#ff6188",
-            "selection": "#ff61883d"
+            "selection": "#ff61881a"
           },
           {
             "cursor": "#a9dc76",
             "background": "#a9dc76",
-            "selection": "#a9dc763d"
+            "selection": "#a9dc761a"
           },
           {
             "cursor": "#fc9867",
             "background": "#fc9867",
-            "selection": "#fc98673d"
+            "selection": "#fc98671a"
           },
           {
             "cursor": "#ffd866",
             "background": "#ffd866",
-            "selection": "#ffd8663d"
+            "selection": "#ffd8661a"
           },
           {
             "cursor": "#ab9df2",
             "background": "#ab9df2",
-            "selection": "#ab9df23d"
+            "selection": "#ab9df21a"
           },
           {
             "cursor": "#78dce8",
             "background": "#78dce8",
-            "selection": "#78dce83d"
+            "selection": "#78dce81a"
           }
         ],
         "syntax": {
@@ -994,8 +994,8 @@
       "name": "Zedokai (Filter Machine)",
       "appearance": "dark",
       "style": {
-        "border": "#404a4f",
-        "border.variant": "#404a4f",
+        "border": "#465055",
+        "border.variant": "#465055",
         "border.focused": "#6b7678",
         "border.selected": "#273136",
         "border.transparent": "#273136",
@@ -1024,11 +1024,11 @@
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": "#343e43",
-        "title_bar.background": "#343e43",
+        "status_bar.background": "#364045",
+        "title_bar.background": "#364045",
         "toolbar.background": "#273136",
         "tab_bar.background": "#2d373c",
-        "tab.inactive_background": "#273136",
+        "tab.inactive_background": "#2d373c",
         "tab.active_background": "#273136",
         "search.match_background": null,
         "panel.background": "#2d373c",
@@ -1127,37 +1127,37 @@
           {
             "cursor": "#f2fffc",
             "background": "#f2fffc",
-            "selection": "#f2fffc3d"
+            "selection": "#f2fffc1a"
           },
           {
             "cursor": "#ff6d7e",
             "background": "#ff6d7e",
-            "selection": "#ff6d7e3d"
+            "selection": "#ff6d7e1a"
           },
           {
             "cursor": "#a2e57b",
             "background": "#a2e57b",
-            "selection": "#a2e57b3d"
+            "selection": "#a2e57b1a"
           },
           {
             "cursor": "#ffb270",
             "background": "#ffb270",
-            "selection": "#ffb2703d"
+            "selection": "#ffb2701a"
           },
           {
             "cursor": "#ffed72",
             "background": "#ffed72",
-            "selection": "#ffed723d"
+            "selection": "#ffed721a"
           },
           {
             "cursor": "#baa0f8",
             "background": "#baa0f8",
-            "selection": "#baa0f83d"
+            "selection": "#baa0f81a"
           },
           {
             "cursor": "#7cd5f1",
             "background": "#7cd5f1",
-            "selection": "#7cd5f13d"
+            "selection": "#7cd5f11a"
           }
         ],
         "syntax": {
@@ -1323,8 +1323,8 @@
       "name": "Zedokai (Filter Octagon)",
       "appearance": "dark",
       "style": {
-        "border": "#414353",
-        "border.variant": "#414353",
+        "border": "#474959",
+        "border.variant": "#474959",
         "border.focused": "#696d77",
         "border.selected": "#282a3a",
         "border.transparent": "#282a3a",
@@ -1353,11 +1353,11 @@
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": "#353747",
-        "title_bar.background": "#353747",
+        "status_bar.background": "#373949",
+        "title_bar.background": "#373949",
         "toolbar.background": "#282a3a",
         "tab_bar.background": "#2e3040",
-        "tab.inactive_background": "#282a3a",
+        "tab.inactive_background": "#2e3040",
         "tab.active_background": "#282a3a",
         "search.match_background": null,
         "panel.background": "#2e3040",
@@ -1456,37 +1456,37 @@
           {
             "cursor": "#eaf2f1",
             "background": "#eaf2f1",
-            "selection": "#eaf2f13d"
+            "selection": "#eaf2f11a"
           },
           {
             "cursor": "#ff657a",
             "background": "#ff657a",
-            "selection": "#ff657a3d"
+            "selection": "#ff657a1a"
           },
           {
             "cursor": "#bad761",
             "background": "#bad761",
-            "selection": "#bad7613d"
+            "selection": "#bad7611a"
           },
           {
             "cursor": "#ff9b5e",
             "background": "#ff9b5e",
-            "selection": "#ff9b5e3d"
+            "selection": "#ff9b5e1a"
           },
           {
             "cursor": "#ffd76d",
             "background": "#ffd76d",
-            "selection": "#ffd76d3d"
+            "selection": "#ffd76d1a"
           },
           {
             "cursor": "#c39ac9",
             "background": "#c39ac9",
-            "selection": "#c39ac93d"
+            "selection": "#c39ac91a"
           },
           {
             "cursor": "#9cd1bb",
             "background": "#9cd1bb",
-            "selection": "#9cd1bb3d"
+            "selection": "#9cd1bb1a"
           }
         ],
         "syntax": {
@@ -1652,8 +1652,8 @@
       "name": "Zedokai (Filter Spectrum)",
       "appearance": "dark",
       "style": {
-        "border": "#3b3b3b",
-        "border.variant": "#3b3b3b",
+        "border": "#414141",
+        "border.variant": "#414141",
         "border.focused": "#69676c",
         "border.selected": "#222222",
         "border.transparent": "#222222",
@@ -1682,11 +1682,11 @@
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": "#2f2f2f",
-        "title_bar.background": "#2f2f2f",
+        "status_bar.background": "#313131",
+        "title_bar.background": "#313131",
         "toolbar.background": "#222222",
         "tab_bar.background": "#282828",
-        "tab.inactive_background": "#222222",
+        "tab.inactive_background": "#282828",
         "tab.active_background": "#222222",
         "search.match_background": null,
         "panel.background": "#282828",
@@ -1785,37 +1785,37 @@
           {
             "cursor": "#f7f1ff",
             "background": "#f7f1ff",
-            "selection": "#f7f1ff3d"
+            "selection": "#f7f1ff1a"
           },
           {
             "cursor": "#fc618d",
             "background": "#fc618d",
-            "selection": "#fc618d3d"
+            "selection": "#fc618d1a"
           },
           {
             "cursor": "#7bd88f",
             "background": "#7bd88f",
-            "selection": "#7bd88f3d"
+            "selection": "#7bd88f1a"
           },
           {
             "cursor": "#fd9353",
             "background": "#fd9353",
-            "selection": "#fd93533d"
+            "selection": "#fd93531a"
           },
           {
             "cursor": "#fce566",
             "background": "#fce566",
-            "selection": "#fce5663d"
+            "selection": "#fce5661a"
           },
           {
             "cursor": "#948ae3",
             "background": "#948ae3",
-            "selection": "#948ae33d"
+            "selection": "#948ae31a"
           },
           {
             "cursor": "#5ad4e6",
             "background": "#5ad4e6",
-            "selection": "#5ad4e63d"
+            "selection": "#5ad4e61a"
           }
         ],
         "syntax": {
