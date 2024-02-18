@@ -1,9 +1,9 @@
 {
   "name": "Zedokai",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "authors": [
     "slymax"
   ],
-  "description": "a minimalist theme for Zed based on the Monokai Pro color scheme",
+  "description": "a theme for Zed based on the Monokai Pro color scheme",
   "repository": "https://github.com/slymax/zedokai"
 }
