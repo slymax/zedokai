@@ -1,23 +1,23 @@
-**Zedokai** is a minimalist theme for [Zed](https://zed.dev) based on the **Monokai Pro** color scheme
+**Zedokai** is a theme for [Zed](https://zed.dev) based on the [Monokai Pro](https://monokai.pro) color scheme
 
-![Zedokai](https://github.com/slymax/zed-themes/blob/main/screenshots/zedokai.png?raw=true)
+![Zedokai](screenshots/zedokai.png)
 
 **Filter Octagon**
 
-![Filter Octagon](https://github.com/slymax/zed-themes/blob/main/screenshots/octagon.png?raw=true)
+![Filter Octagon](screenshots/octagon.png)
 
 **Filter Spectrum**
 
-![Filter Spectrum](https://github.com/slymax/zed-themes/blob/main/screenshots/spectrum.png?raw=true)
+![Filter Spectrum](screenshots/spectrum.png)
 
 **Filter Ristretto**
 
-![Filter Ristretto](https://github.com/slymax/zed-themes/blob/main/screenshots/ristretto.png?raw=true)
+![Filter Ristretto](screenshots/ristretto.png)
 
 **Filter Machine**
 
-![Filter Machine](https://github.com/slymax/zed-themes/blob/main/screenshots/machine.png?raw=true)
+![Filter Machine](screenshots/machine.png)
 
 **Zedokai Classic**
 
-![Zedokai Classic](https://github.com/slymax/zed-themes/blob/main/screenshots/classic.png?raw=true)
+![Zedokai Classic](screenshots/classic.png)
