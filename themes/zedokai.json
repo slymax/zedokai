@@ -7,13 +7,13 @@
       "name": "Zedokai Classic",
       "appearance": "dark",
       "style": {
-        "border": "#3b3c35",
+        "border": "#40413b",
         "border.variant": "#272822",
         "border.focused": "#6e7066",
         "border.selected": "#272822",
         "border.transparent": "#272822",
         "border.disabled": "#272822",
-        "elevated_surface.background": "#272822",
+        "elevated_surface.background": "#2d2e28",
         "surface.background": "#3b3c35",
         "background": "#272822",
         "element.background": "#3b3c35",
@@ -37,14 +37,14 @@
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": "#272822",
-        "title_bar.background": "#272822",
+        "status_bar.background": "#34352f",
+        "title_bar.background": "#34352f",
         "toolbar.background": "#272822",
-        "tab_bar.background": "#272822",
+        "tab_bar.background": "#2d2e28",
         "tab.inactive_background": "#272822",
         "tab.active_background": "#272822",
         "search.match_background": null,
-        "panel.background": "#272822",
+        "panel.background": "#2d2e28",
         "panel.focused_border": null,
         "pane.focused_border": null,
         "scrollbar_thumb.background": "#c0c1b526",
@@ -115,7 +115,7 @@
         "ignored": "#57584f",
         "ignored.background": null,
         "ignored.border": null,
-        "info": "#fdfff10c",
+        "info": "#66d9ef",
         "info.background": "#00000000",
         "info.border": "#272822",
         "modified": "#fd971f",
@@ -138,8 +138,39 @@
         "warning.border": "#00000000",
         "players": [
           {
-            "cursor": "#fdfff1",
-            "selection": "#fdfff10c"
+            "cursor": "#fdfff1ff",
+            "background": "#fdfff1ff",
+            "selection": "#fdfff13d"
+          },
+          {
+            "cursor": "#f92672ff",
+            "background": "#f92672ff",
+            "selection": "#f926723d"
+          },
+          {
+            "cursor": "#a6e22eff",
+            "background": "#a6e22eff",
+            "selection": "#a6e22e3d"
+          },
+          {
+            "cursor": "#fd971fff",
+            "background": "#fd971fff",
+            "selection": "#fd971f3d"
+          },
+          {
+            "cursor": "#e6db74ff",
+            "background": "#e6db74ff",
+            "selection": "#e6db743d"
+          },
+          {
+            "cursor": "#ae81ffff",
+            "background": "#ae81ffff",
+            "selection": "#ae81ff3d"
+          },
+          {
+            "cursor": "#66d9efff",
+            "background": "#66d9efff",
+            "selection": "#66d9ef3d"
           }
         ],
         "syntax": {
@@ -305,13 +336,13 @@
       "name": "Zedokai (Filter Ristretto)",
       "appearance": "dark",
       "style": {
-        "border": "#403838",
+        "border": "#453e3e",
         "border.variant": "#2c2525",
         "border.focused": "#72696a",
         "border.selected": "#2c2525",
         "border.transparent": "#2c2525",
         "border.disabled": "#2c2525",
-        "elevated_surface.background": "#2c2525",
+        "elevated_surface.background": "#322b2b",
         "surface.background": "#403838",
         "background": "#2c2525",
         "element.background": "#403838",
@@ -335,14 +366,14 @@
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": "#2c2525",
-        "title_bar.background": "#2c2525",
+        "status_bar.background": "#393232",
+        "title_bar.background": "#393232",
         "toolbar.background": "#2c2525",
-        "tab_bar.background": "#2c2525",
+        "tab_bar.background": "#322b2b",
         "tab.inactive_background": "#2c2525",
         "tab.active_background": "#2c2525",
         "search.match_background": null,
-        "panel.background": "#2c2525",
+        "panel.background": "#322b2b",
         "panel.focused_border": null,
         "pane.focused_border": null,
         "scrollbar_thumb.background": "#c3b7b826",
@@ -413,7 +444,7 @@
         "ignored": "#5b5353",
         "ignored.background": null,
         "ignored.border": null,
-        "info": "#fff1f30c",
+        "info": "#85dacc",
         "info.background": "#00000000",
         "info.border": "#2c2525",
         "modified": "#f38d70",
@@ -436,8 +467,39 @@
         "warning.border": "#00000000",
         "players": [
           {
-            "cursor": "#fff1f3",
-            "selection": "#fff1f30c"
+            "cursor": "#fff1f3ff",
+            "background": "#fff1f3ff",
+            "selection": "#fff1f33d"
+          },
+          {
+            "cursor": "#fd6883ff",
+            "background": "#fd6883ff",
+            "selection": "#fd68833d"
+          },
+          {
+            "cursor": "#adda78ff",
+            "background": "#adda78ff",
+            "selection": "#adda783d"
+          },
+          {
+            "cursor": "#f38d70ff",
+            "background": "#f38d70ff",
+            "selection": "#f38d703d"
+          },
+          {
+            "cursor": "#f9cc6cff",
+            "background": "#f9cc6cff",
+            "selection": "#f9cc6c3d"
+          },
+          {
+            "cursor": "#a8a9ebff",
+            "background": "#a8a9ebff",
+            "selection": "#a8a9eb3d"
+          },
+          {
+            "cursor": "#85daccff",
+            "background": "#85daccff",
+            "selection": "#85dacc3d"
           }
         ],
         "syntax": {
@@ -603,13 +665,13 @@
       "name": "Zedokai",
       "appearance": "dark",
       "style": {
-        "border": "#403e41",
+        "border": "#464347",
         "border.variant": "#2d2a2e",
         "border.focused": "#727072",
         "border.selected": "#2d2a2e",
         "border.transparent": "#2d2a2e",
         "border.disabled": "#2d2a2e",
-        "elevated_surface.background": "#2d2a2e",
+        "elevated_surface.background": "#333034",
         "surface.background": "#403e41",
         "background": "#2d2a2e",
         "element.background": "#403e41",
@@ -633,14 +695,14 @@
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": "#2d2a2e",
-        "title_bar.background": "#2d2a2e",
+        "status_bar.background": "#3a373b",
+        "title_bar.background": "#3a373b",
         "toolbar.background": "#2d2a2e",
-        "tab_bar.background": "#2d2a2e",
+        "tab_bar.background": "#333034",
         "tab.inactive_background": "#2d2a2e",
         "tab.active_background": "#2d2a2e",
         "search.match_background": null,
-        "panel.background": "#2d2a2e",
+        "panel.background": "#333034",
         "panel.focused_border": null,
         "pane.focused_border": null,
         "scrollbar_thumb.background": "#c1c0c026",
@@ -711,7 +773,7 @@
         "ignored": "#5b595c",
         "ignored.background": null,
         "ignored.border": null,
-        "info": "#fcfcfa0c",
+        "info": "#78dce8",
         "info.background": "#00000000",
         "info.border": "#2d2a2e",
         "modified": "#fc9867",
@@ -734,8 +796,39 @@
         "warning.border": "#00000000",
         "players": [
           {
-            "cursor": "#fcfcfa",
-            "selection": "#fcfcfa0c"
+            "cursor": "#fcfcfaff",
+            "background": "#fcfcfaff",
+            "selection": "#fcfcfa3d"
+          },
+          {
+            "cursor": "#ff6188ff",
+            "background": "#ff6188ff",
+            "selection": "#ff61883d"
+          },
+          {
+            "cursor": "#a9dc76ff",
+            "background": "#a9dc76ff",
+            "selection": "#a9dc763d"
+          },
+          {
+            "cursor": "#fc9867ff",
+            "background": "#fc9867ff",
+            "selection": "#fc98673d"
+          },
+          {
+            "cursor": "#ffd866ff",
+            "background": "#ffd866ff",
+            "selection": "#ffd8663d"
+          },
+          {
+            "cursor": "#ab9df2ff",
+            "background": "#ab9df2ff",
+            "selection": "#ab9df23d"
+          },
+          {
+            "cursor": "#78dce8ff",
+            "background": "#78dce8ff",
+            "selection": "#78dce83d"
           }
         ],
         "syntax": {
@@ -901,13 +994,13 @@
       "name": "Zedokai (Filter Machine)",
       "appearance": "dark",
       "style": {
-        "border": "#3a4449",
+        "border": "#404a4f",
         "border.variant": "#273136",
         "border.focused": "#6b7678",
         "border.selected": "#273136",
         "border.transparent": "#273136",
         "border.disabled": "#273136",
-        "elevated_surface.background": "#273136",
+        "elevated_surface.background": "#2d373c",
         "surface.background": "#3a4449",
         "background": "#273136",
         "element.background": "#3a4449",
@@ -931,14 +1024,14 @@
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": "#273136",
-        "title_bar.background": "#273136",
+        "status_bar.background": "#343e43",
+        "title_bar.background": "#343e43",
         "toolbar.background": "#273136",
-        "tab_bar.background": "#273136",
+        "tab_bar.background": "#2d373c",
         "tab.inactive_background": "#273136",
         "tab.active_background": "#273136",
         "search.match_background": null,
-        "panel.background": "#273136",
+        "panel.background": "#2d373c",
         "panel.focused_border": null,
         "pane.focused_border": null,
         "scrollbar_thumb.background": "#b8c4c326",
@@ -1009,7 +1102,7 @@
         "ignored": "#545f62",
         "ignored.background": null,
         "ignored.border": null,
-        "info": "#f2fffc0c",
+        "info": "#7cd5f1",
         "info.background": "#00000000",
         "info.border": "#273136",
         "modified": "#ffb270",
@@ -1032,8 +1125,39 @@
         "warning.border": "#00000000",
         "players": [
           {
-            "cursor": "#f2fffc",
-            "selection": "#f2fffc0c"
+            "cursor": "#f2fffcff",
+            "background": "#f2fffcff",
+            "selection": "#f2fffc3d"
+          },
+          {
+            "cursor": "#ff6d7eff",
+            "background": "#ff6d7eff",
+            "selection": "#ff6d7e3d"
+          },
+          {
+            "cursor": "#a2e57bff",
+            "background": "#a2e57bff",
+            "selection": "#a2e57b3d"
+          },
+          {
+            "cursor": "#ffb270ff",
+            "background": "#ffb270ff",
+            "selection": "#ffb2703d"
+          },
+          {
+            "cursor": "#ffed72ff",
+            "background": "#ffed72ff",
+            "selection": "#ffed723d"
+          },
+          {
+            "cursor": "#baa0f8ff",
+            "background": "#baa0f8ff",
+            "selection": "#baa0f83d"
+          },
+          {
+            "cursor": "#7cd5f1ff",
+            "background": "#7cd5f1ff",
+            "selection": "#7cd5f13d"
           }
         ],
         "syntax": {
@@ -1199,13 +1323,13 @@
       "name": "Zedokai (Filter Octagon)",
       "appearance": "dark",
       "style": {
-        "border": "#3a3d4b",
+        "border": "#414353",
         "border.variant": "#282a3a",
         "border.focused": "#696d77",
         "border.selected": "#282a3a",
         "border.transparent": "#282a3a",
         "border.disabled": "#282a3a",
-        "elevated_surface.background": "#282a3a",
+        "elevated_surface.background": "#2e3040",
         "surface.background": "#3a3d4b",
         "background": "#282a3a",
         "element.background": "#3a3d4b",
@@ -1229,14 +1353,14 @@
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": "#282a3a",
-        "title_bar.background": "#282a3a",
+        "status_bar.background": "#353747",
+        "title_bar.background": "#353747",
         "toolbar.background": "#282a3a",
-        "tab_bar.background": "#282a3a",
+        "tab_bar.background": "#2e3040",
         "tab.inactive_background": "#282a3a",
         "tab.active_background": "#282a3a",
         "search.match_background": null,
-        "panel.background": "#282a3a",
+        "panel.background": "#2e3040",
         "panel.focused_border": null,
         "pane.focused_border": null,
         "scrollbar_thumb.background": "#b2b9bd26",
@@ -1307,7 +1431,7 @@
         "ignored": "#535763",
         "ignored.background": null,
         "ignored.border": null,
-        "info": "#eaf2f10c",
+        "info": "#9cd1bb",
         "info.background": "#00000000",
         "info.border": "#282a3a",
         "modified": "#ff9b5e",
@@ -1330,8 +1454,39 @@
         "warning.border": "#00000000",
         "players": [
           {
-            "cursor": "#eaf2f1",
-            "selection": "#eaf2f10c"
+            "cursor": "#eaf2f1ff",
+            "background": "#eaf2f1ff",
+            "selection": "#eaf2f13d"
+          },
+          {
+            "cursor": "#ff657aff",
+            "background": "#ff657aff",
+            "selection": "#ff657a3d"
+          },
+          {
+            "cursor": "#bad761ff",
+            "background": "#bad761ff",
+            "selection": "#bad7613d"
+          },
+          {
+            "cursor": "#ff9b5eff",
+            "background": "#ff9b5eff",
+            "selection": "#ff9b5e3d"
+          },
+          {
+            "cursor": "#ffd76dff",
+            "background": "#ffd76dff",
+            "selection": "#ffd76d3d"
+          },
+          {
+            "cursor": "#c39ac9ff",
+            "background": "#c39ac9ff",
+            "selection": "#c39ac93d"
+          },
+          {
+            "cursor": "#9cd1bbff",
+            "background": "#9cd1bbff",
+            "selection": "#9cd1bb3d"
           }
         ],
         "syntax": {
@@ -1497,13 +1652,13 @@
       "name": "Zedokai (Filter Spectrum)",
       "appearance": "dark",
       "style": {
-        "border": "#363537",
+        "border": "#3b3b3b",
         "border.variant": "#222222",
         "border.focused": "#69676c",
         "border.selected": "#222222",
         "border.transparent": "#222222",
         "border.disabled": "#222222",
-        "elevated_surface.background": "#222222",
+        "elevated_surface.background": "#282828",
         "surface.background": "#363537",
         "background": "#222222",
         "element.background": "#363537",
@@ -1527,14 +1682,14 @@
         "icon.disabled": null,
         "icon.placeholder": null,
         "icon.accent": null,
-        "status_bar.background": "#222222",
-        "title_bar.background": "#222222",
+        "status_bar.background": "#2f2f2f",
+        "title_bar.background": "#2f2f2f",
         "toolbar.background": "#222222",
-        "tab_bar.background": "#222222",
+        "tab_bar.background": "#282828",
         "tab.inactive_background": "#222222",
         "tab.active_background": "#222222",
         "search.match_background": null,
-        "panel.background": "#222222",
+        "panel.background": "#282828",
         "panel.focused_border": null,
         "pane.focused_border": null,
         "scrollbar_thumb.background": "#bab6c026",
@@ -1605,7 +1760,7 @@
         "ignored": "#525053",
         "ignored.background": null,
         "ignored.border": null,
-        "info": "#f7f1ff0c",
+        "info": "#5ad4e6",
         "info.background": "#00000000",
         "info.border": "#222222",
         "modified": "#fd9353",
@@ -1628,8 +1783,39 @@
         "warning.border": "#00000000",
         "players": [
           {
-            "cursor": "#f7f1ff",
-            "selection": "#f7f1ff0c"
+            "cursor": "#f7f1ffff",
+            "background": "#f7f1ffff",
+            "selection": "#f7f1ff3d"
+          },
+          {
+            "cursor": "#fc618dff",
+            "background": "#fc618dff",
+            "selection": "#fc618d3d"
+          },
+          {
+            "cursor": "#7bd88fff",
+            "background": "#7bd88fff",
+            "selection": "#7bd88f3d"
+          },
+          {
+            "cursor": "#fd9353ff",
+            "background": "#fd9353ff",
+            "selection": "#fd93533d"
+          },
+          {
+            "cursor": "#fce566ff",
+            "background": "#fce566ff",
+            "selection": "#fce5663d"
+          },
+          {
+            "cursor": "#948ae3ff",
+            "background": "#948ae3ff",
+            "selection": "#948ae33d"
+          },
+          {
+            "cursor": "#5ad4e6ff",
+            "background": "#5ad4e6ff",
+            "selection": "#5ad4e63d"
           }
         ],
         "syntax": {
