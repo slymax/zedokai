@@ -8,7 +8,7 @@
       "appearance": "dark",
       "style": {
         "border": "#40413b",
-        "border.variant": "#272822",
+        "border.variant": "#40413b",
         "border.focused": "#6e7066",
         "border.selected": "#272822",
         "border.transparent": "#272822",
@@ -337,7 +337,7 @@
       "appearance": "dark",
       "style": {
         "border": "#453e3e",
-        "border.variant": "#2c2525",
+        "border.variant": "#453e3e",
         "border.focused": "#72696a",
         "border.selected": "#2c2525",
         "border.transparent": "#2c2525",
@@ -666,7 +666,7 @@
       "appearance": "dark",
       "style": {
         "border": "#464347",
-        "border.variant": "#2d2a2e",
+        "border.variant": "#464347",
         "border.focused": "#727072",
         "border.selected": "#2d2a2e",
         "border.transparent": "#2d2a2e",
@@ -995,7 +995,7 @@
       "appearance": "dark",
       "style": {
         "border": "#404a4f",
-        "border.variant": "#273136",
+        "border.variant": "#404a4f",
         "border.focused": "#6b7678",
         "border.selected": "#273136",
         "border.transparent": "#273136",
@@ -1324,7 +1324,7 @@
       "appearance": "dark",
       "style": {
         "border": "#414353",
-        "border.variant": "#282a3a",
+        "border.variant": "#414353",
         "border.focused": "#696d77",
         "border.selected": "#282a3a",
         "border.transparent": "#282a3a",
@@ -1653,7 +1653,7 @@
       "appearance": "dark",
       "style": {
         "border": "#3b3b3b",
-        "border.variant": "#222222",
+        "border.variant": "#3b3b3b",
         "border.focused": "#69676c",
         "border.selected": "#222222",
         "border.transparent": "#222222",
