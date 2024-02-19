@@ -6,13 +6,13 @@
 
 ![Filter Octagon](screenshots/octagon.png)
 
-**Filter Spectrum**
-
-![Filter Spectrum](screenshots/spectrum.png)
-
 **Filter Ristretto**
 
 ![Filter Ristretto](screenshots/ristretto.png)
+
+**Filter Spectrum**
+
+![Filter Spectrum](screenshots/spectrum.png)
 
 **Filter Machine**
 
