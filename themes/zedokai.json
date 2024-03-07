@@ -1,11 +1,11 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "author": "slymax",
   "name": "Zedokai",
+  "author": "slymax",
   "themes": [
     {
-      "appearance": "dark",
       "name": "Zedokai",
+      "appearance": "dark",
       "style": {
         "background": "#2d2a2e",
         "border": "#474448",
@@ -222,8 +222,8 @@
       }
     },
     {
-      "appearance": "dark",
       "name": "Zedokai (Filter Octagon)",
+      "appearance": "dark",
       "style": {
         "background": "#282a3a",
         "border": "#424454",
@@ -440,8 +440,8 @@
       }
     },
     {
-      "appearance": "dark",
       "name": "Zedokai (Filter Ristretto)",
+      "appearance": "dark",
       "style": {
         "background": "#2c2525",
         "border": "#463f3f",
@@ -658,8 +658,8 @@
       }
     },
     {
-      "appearance": "dark",
       "name": "Zedokai (Filter Spectrum)",
+      "appearance": "dark",
       "style": {
         "background": "#222222",
         "border": "#3c3c3c",
@@ -876,8 +876,8 @@
       }
     },
     {
-      "appearance": "dark",
       "name": "Zedokai (Filter Machine)",
+      "appearance": "dark",
       "style": {
         "background": "#273136",
         "border": "#414b50",
@@ -1094,8 +1094,8 @@
       }
     },
     {
-      "appearance": "dark",
       "name": "Zedokai Classic",
+      "appearance": "dark",
       "style": {
         "background": "#272822",
         "border": "#41423c",
