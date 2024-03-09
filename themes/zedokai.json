@@ -114,6 +114,12 @@
           "constructor": {
             "color": "#ff6188"
           },
+          "emphasis": {
+            "font_style": "italic"
+          },
+          "emphasis.strong": {
+            "font_weight": 700
+          },
           "function": {
             "color": "#a9dc76"
           },
@@ -331,6 +337,12 @@
           },
           "constructor": {
             "color": "#ff657a"
+          },
+          "emphasis": {
+            "font_style": "italic"
+          },
+          "emphasis.strong": {
+            "font_weight": 700
           },
           "function": {
             "color": "#bad761"
@@ -550,6 +562,12 @@
           "constructor": {
             "color": "#fd6883"
           },
+          "emphasis": {
+            "font_style": "italic"
+          },
+          "emphasis.strong": {
+            "font_weight": 700
+          },
           "function": {
             "color": "#adda78"
           },
@@ -767,6 +785,12 @@
           },
           "constructor": {
             "color": "#fc618d"
+          },
+          "emphasis": {
+            "font_style": "italic"
+          },
+          "emphasis.strong": {
+            "font_weight": 700
           },
           "function": {
             "color": "#7bd88f"
@@ -986,6 +1010,12 @@
           "constructor": {
             "color": "#ff6d7e"
           },
+          "emphasis": {
+            "font_style": "italic"
+          },
+          "emphasis.strong": {
+            "font_weight": 700
+          },
           "function": {
             "color": "#a2e57b"
           },
@@ -1203,6 +1233,12 @@
           },
           "constructor": {
             "color": "#f92672"
+          },
+          "emphasis": {
+            "font_style": "italic"
+          },
+          "emphasis.strong": {
+            "font_weight": 700
           },
           "function": {
             "color": "#a6e22e"
