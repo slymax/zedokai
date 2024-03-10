@@ -130,7 +130,7 @@
             "color": "#a9dc76"
           },
           "link_text": {
-            "color": "#a9dc76"
+            "color": "#ff6188"
           },
           "link_uri": {
             "color": "#a9dc76"
@@ -184,7 +184,7 @@
             "color": "#ffd866"
           },
           "title": {
-            "color": "#a9dc76"
+            "color": "#ffd866"
           },
           "type": {
             "color": "#78dce8"
@@ -354,7 +354,7 @@
             "color": "#bad761"
           },
           "link_text": {
-            "color": "#bad761"
+            "color": "#ff657a"
           },
           "link_uri": {
             "color": "#bad761"
@@ -408,7 +408,7 @@
             "color": "#ffd76d"
           },
           "title": {
-            "color": "#bad761"
+            "color": "#ffd76d"
           },
           "type": {
             "color": "#9cd1bb"
@@ -578,7 +578,7 @@
             "color": "#adda78"
           },
           "link_text": {
-            "color": "#adda78"
+            "color": "#fd6883"
           },
           "link_uri": {
             "color": "#adda78"
@@ -632,7 +632,7 @@
             "color": "#f9cc6c"
           },
           "title": {
-            "color": "#adda78"
+            "color": "#f9cc6c"
           },
           "type": {
             "color": "#85dacc"
@@ -802,7 +802,7 @@
             "color": "#7bd88f"
           },
           "link_text": {
-            "color": "#7bd88f"
+            "color": "#fc618d"
           },
           "link_uri": {
             "color": "#7bd88f"
@@ -856,7 +856,7 @@
             "color": "#fce566"
           },
           "title": {
-            "color": "#7bd88f"
+            "color": "#fce566"
           },
           "type": {
             "color": "#5ad4e6"
@@ -1026,7 +1026,7 @@
             "color": "#a2e57b"
           },
           "link_text": {
-            "color": "#a2e57b"
+            "color": "#ff6d7e"
           },
           "link_uri": {
             "color": "#a2e57b"
@@ -1080,7 +1080,7 @@
             "color": "#ffed72"
           },
           "title": {
-            "color": "#a2e57b"
+            "color": "#ffed72"
           },
           "type": {
             "color": "#7cd5f1"
@@ -1250,7 +1250,7 @@
             "color": "#a6e22e"
           },
           "link_text": {
-            "color": "#a6e22e"
+            "color": "#f92672"
           },
           "link_uri": {
             "color": "#a6e22e"
@@ -1304,7 +1304,7 @@
             "color": "#e6db74"
           },
           "title": {
-            "color": "#a6e22e"
+            "color": "#e6db74"
           },
           "type": {
             "color": "#66d9ef"
