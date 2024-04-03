@@ -23,6 +23,7 @@
 [
   "."
   ","
+  "\""
 ] @punctuation.delimiter
 
 "=" @operator
