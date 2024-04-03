@@ -8,6 +8,7 @@
       "appearance": "dark",
       "style": {
         "background": "#2d2a2e",
+        "background.appearance": "opaque",
         "border": "#474448",
         "border.disabled": "#2d2a2e",
         "border.focused": "#727072",
@@ -45,6 +46,7 @@
         "info.border": "#474448",
         "link_text.hover": "#fcfcfa",
         "modified": "#fc9867",
+        "pane_group.border": "#474448",
         "panel.background": "#333034",
         "players": [
           {
@@ -232,6 +234,7 @@
       "appearance": "dark",
       "style": {
         "background": "#282a3a",
+        "background.appearance": "opaque",
         "border": "#424454",
         "border.disabled": "#282a3a",
         "border.focused": "#696d77",
@@ -269,6 +272,7 @@
         "info.border": "#424454",
         "link_text.hover": "#eaf2f1",
         "modified": "#ff9b5e",
+        "pane_group.border": "#424454",
         "panel.background": "#2e3040",
         "players": [
           {
@@ -456,6 +460,7 @@
       "appearance": "dark",
       "style": {
         "background": "#2c2525",
+        "background.appearance": "opaque",
         "border": "#463f3f",
         "border.disabled": "#2c2525",
         "border.focused": "#72696a",
@@ -493,6 +498,7 @@
         "info.border": "#463f3f",
         "link_text.hover": "#fff1f3",
         "modified": "#f38d70",
+        "pane_group.border": "#463f3f",
         "panel.background": "#322b2b",
         "players": [
           {
@@ -680,6 +686,7 @@
       "appearance": "dark",
       "style": {
         "background": "#222222",
+        "background.appearance": "opaque",
         "border": "#3c3c3c",
         "border.disabled": "#222222",
         "border.focused": "#69676c",
@@ -717,6 +724,7 @@
         "info.border": "#3c3c3c",
         "link_text.hover": "#f7f1ff",
         "modified": "#fd9353",
+        "pane_group.border": "#3c3c3c",
         "panel.background": "#282828",
         "players": [
           {
@@ -904,6 +912,7 @@
       "appearance": "dark",
       "style": {
         "background": "#273136",
+        "background.appearance": "opaque",
         "border": "#414b50",
         "border.disabled": "#273136",
         "border.focused": "#6b7678",
@@ -941,6 +950,7 @@
         "info.border": "#414b50",
         "link_text.hover": "#f2fffc",
         "modified": "#ffb270",
+        "pane_group.border": "#414b50",
         "panel.background": "#2d373c",
         "players": [
           {
@@ -1128,6 +1138,7 @@
       "appearance": "dark",
       "style": {
         "background": "#272822",
+        "background.appearance": "opaque",
         "border": "#41423c",
         "border.disabled": "#272822",
         "border.focused": "#6e7066",
@@ -1165,6 +1176,7 @@
         "info.border": "#41423c",
         "link_text.hover": "#fdfff1",
         "modified": "#fd971f",
+        "pane_group.border": "#41423c",
         "panel.background": "#2d2e28",
         "players": [
           {
