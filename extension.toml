@@ -1,6 +1,6 @@
 id = "zedokai"
 name = "Zedokai"
-version = "1.2.1"
+version = "1.2.2"
 schema_version = 1
 authors = ["slymax <contact@slymax.com>"]
 repository = "https://github.com/slymax/zedokai"
