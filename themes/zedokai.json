@@ -3336,7 +3336,6 @@
         "text.muted": "#92898a",
         "title_bar.background": "#dfd8d2",
         "toolbar.background": "#f8efe7",
-        "vim.mode.text": "#f8efe7",
         "vim.insert.foreground": "#f8efe7",
         "vim.insert.background": "#218871",
         "vim.normal.foreground": "#f8efe7",
