@@ -711,10 +711,10 @@
         "vim.normal.background": "#f9cc6c",
         "vim.visual.foreground": "#2c2525",
         "vim.visual.background": "#f38d70",
-        "vim.helix_normal.background": "#f9cc6c",
         "vim.helix_normal.foreground": "#2c2525",
-        "vim.helix_select.background": "#f38d70",
+        "vim.helix_normal.background": "#f9cc6c",
         "vim.helix_select.foreground": "#2c2525",
+        "vim.helix_select.background": "#f38d70",
         "warning": "#f38d70",
         "warning.background": "#322b2b",
         "warning.border": "#463f3f"
